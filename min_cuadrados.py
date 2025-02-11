@@ -31,7 +31,7 @@ from typing import Callable
 from src import eliminacion_gaussiana
 
 
-# ####################################################################
+
 def ajustar_min_cuadrados(
     xs: list,
     ys: list,
